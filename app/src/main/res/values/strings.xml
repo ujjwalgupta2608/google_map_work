@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapIntegration</string>
+    <string name="map_key">MAP_API_KEY</string>
+</resources>
